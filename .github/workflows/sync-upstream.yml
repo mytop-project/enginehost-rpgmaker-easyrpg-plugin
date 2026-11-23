@@ -6,7 +6,7 @@ name: Sync upstream-sync with upstream EasyRPG/Player
 # being auto-merged here: rebasing a patched branch unattended risks a
 # silent, wrong conflict resolution, so that step stays manual by design.
 # This file lives on plugin-core, the default branch, because GitHub runs scheduled workflows
-# only from the default branch; it checks out and pushes upstream-sync (Droidtop/tracker#324).
+# only from the default branch; it checks out and pushes upstream-sync (mytop-project/tracker#324).
 
 on:
   schedule:
